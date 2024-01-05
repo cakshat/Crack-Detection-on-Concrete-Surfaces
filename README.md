@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter notebook that demonstrates how to use machine learning for crack detection on concrete surfaces. The model is trained on a dataset of images of concrete surfaces, some of which contain cracks.
 
+data: [https://www.kaggle.com/datasets/arunrk7/surface-crack-detection?resource=download]
+
 ## Code Breakdown
 1. 	It imports the `InceptionV3` model from `tensorflow.keras.applications`.
 2.	It sets the path to the local pre-trained weights file for the InceptionV3 model.
