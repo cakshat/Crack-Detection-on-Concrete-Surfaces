@@ -21,7 +21,6 @@ This repository contains a Jupyter notebook that demonstrates how to use machine
 13.	Finally, it prints a summary of the new model, showing all layers, their types, and the number of parameters they have.
 
 ## Model used: InceptionV3
-## InceptionV3 Model
 
 In this project, the InceptionV3 model is used, a pre-trained convolutional neural network model for image classification. InceptionV3 is trained on more than a million images from the ImageNet database and can classify images into 1000 object categories. 
 The InceptionV3 model architecture is characterized by its depth and complexity. It uses multiple kernel sizes in the same layer, allowing it to capture both high-level and low-level features in the images. This makes it particularly effective for complex image recognition tasks.
